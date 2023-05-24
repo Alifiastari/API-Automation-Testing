@@ -3,12 +3,18 @@ API Automation project for QA Tech Exercise created with Visual Studio Code and 
 
 # Library
 Node.js 18.16.0
+
 npm 6.14.15
+
 SuperTest
+
 Mocha
+
 Babel (ES6+)
+
 Visual Studio Code 1.78.2
-Features
+
+# Features
 Testing API on http://api.weatherbit.io/v2.0
 GET /current?lat={lat}&lon={lon}
 GET /forecast/3hourly?postal_code={postal_code}
